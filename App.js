@@ -6,7 +6,6 @@ import { Cart } from './screens';
 const Stack = createNativeStackNavigator();
 
 const App = () => {
-
   return (
     <NavigationContainer>
       <Stack.Navigator>
